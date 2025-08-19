@@ -1,0 +1,4 @@
+mkswap /dev/sda3
+/etc/fstab: /dev/sdb1 swap swap defaults 0 0
+mount
+sudo swapon -a

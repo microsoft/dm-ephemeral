@@ -1,0 +1,12 @@
+.Module.symvers.cmd
+.dm_ephemeral.ko.cmd
+.dm_ephemeral.mod.cmd
+.dm_ephemeral.mod.o.cmd
+.dm_ephemeral.o.cmd
+.modules.order.cmd
+Module.symvers
+dm_ephemeral.ko
+dm_ephemeral.mod
+dm_ephemeral.mod.c
+modules.order
+*.o
